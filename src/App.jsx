@@ -37,7 +37,7 @@ function App() {
 					</div>
 
 					<div className="opacity-75 italic">
-						By subscribing, you agree with Revue's <a target="_blank" href="https://www.getrevue.co/terms" className="hover:opacity-80 duration-150">Terms of Service</a> and <a target="_blank" href="https://www.getrevue.co/privacy" className="hover:opacity-80 duration-150">Privacy Policy</a>.
+						By subscribing, you agree with AgriConnect <a target="_blank" href="https://www.getrevue.co/terms" className="hover:opacity-80 duration-150">Terms of Service</a> and <a target="_blank" href="https://www.getrevue.co/privacy" className="hover:opacity-80 duration-150">Privacy Policy</a>.
 					</div>
 
 				</form>
@@ -45,7 +45,7 @@ function App() {
 
 			<footer className="container mx-auto p-6">
 				<div className="flex flex-col md:flex-row items-center justify-between">
-					<p className="mb-4 md:mb-0 md:text-xl">Built with 💖 by Tyler Potts</p>
+					<p className="mb-4 md:mb-0 md:text-xl">Developed by Sentinel Media</p>
 
 					<div className="flex -mx-6">
 						<a href="#" className="mx-3 hover:opacity-80 duration-150">About us</a> | 
